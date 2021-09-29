@@ -1,9 +1,9 @@
-//Genius by AcaciaCalegari
+//Genius by AcaciaCalegari para freeschool
 
 //-----------------------#definir as variaveis ------------------------//
-#define LED_A 5 //amarelym
-#define LED_B 6 //vermelhao
-#define LED_C 7 //verdym
+#define LED_A 5 //amarelo
+#define LED_B 6 //vermelho
+#define LED_C 7 //verde
  
 #define BUTTON_A 8
 #define BUTTON_B 9
