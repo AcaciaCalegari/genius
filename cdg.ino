@@ -1,4 +1,4 @@
-//Genious by AcaciaCalegari para freeschool
+//Genius by AcaciaCalegari para freeschool
 
 //-----------------------#definir as variaveis ------------------------//
 #define LED_A 5 //amarelo
